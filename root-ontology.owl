@@ -1,0 +1,1855 @@
+<xml version="1.0">
+<rdf:RDF xmlns="http://webprotege.stanford.edu/project/8i0NsmQQ5Fw4CzbczeEksG#"
+     xml:base="http://webprotege.stanford.edu/project/8i0NsmQQ5Fw4CzbczeEksG"
+     xmlns:webprotege="http://webprotege.stanford.edu/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <owl:Ontology rdf:about="http://webprotege.stanford.edu/project/8i0NsmQQ5Fw4CzbczeEksG"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/date -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/date"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/description -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/description"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/language -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/language"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/source -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/source"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/title -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/title"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/type -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/type"/>
+    
+
+
+    <!-- http://www.w3.org/2004/02/skos/core#definition -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2004/02/skos/core#definition"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7A25jUQ42nBl38BszPBldm -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R7A25jUQ42nBl38BszPBldm">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">String</dc:type>
+        <rdfs:label>PedalBulunur</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7dcDfoAV9nGy9CWqASEBwK -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R7dcDfoAV9nGy9CWqASEBwK">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">String</dc:type>
+        <rdfs:label>PenaKullanilir</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8hI39eMqP3DCh63VRP1YQM -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R8hI39eMqP3DCh63VRP1YQM">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">String</dc:type>
+        <rdfs:label>CalgidaTelVar</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDECftuR4zxWtj23BngWdfI -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RDECftuR4zxWtj23BngWdfI">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">String</dc:type>
+        <rdfs:label>KamısBulunur</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rk0QA5L6ggeGrR3f0M5zsn -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/Rk0QA5L6ggeGrR3f0M5zsn">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">String</dc:type>
+        <rdfs:label>MizrapKullanilir</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RoaWFn4aF8UMAswAzRAmuS -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RoaWFn4aF8UMAswAzRAmuS">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">String</dc:type>
+        <rdfs:label>CalgidaTusVar</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBGw2C9b46OLZAdxOjYWvYp -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RBGw2C9b46OLZAdxOjYWvYp">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Number</dc:type>
+        <rdfs:label xml:lang="tr">CalgiTusSayisi</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBlpbJtKi6VHFVZsOBVx5sv -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RBlpbJtKi6VHFVZsOBVx5sv">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">String</dc:type>
+        <rdfs:label>CalgiKokeni</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCIvgp4R9klt0QLkKZFpYWw -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RCIvgp4R9klt0QLkKZFpYWw">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">String</dc:type>
+        <rdfs:label>CalgiAdi</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCJM2fHq6oNnaCvkZYBp21u -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RCJM2fHq6oNnaCvkZYBp21u">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Number</dc:type>
+        <rdfs:label>CalgiTelSayisi</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCdmt9U79JBEbQplBNQmDHD -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RCdmt9U79JBEbQplBNQmDHD">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">String</dc:type>
+        <rdfs:label>ileMeshur</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rv08tGrz1DPpn0g74vGAp9 -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/Rv08tGrz1DPpn0g74vGAp9">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/R7RNf7UMneg2laoZQ7XV3aa"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">String</dc:date>
+        <rdfs:label>CalgininCikişTarihi</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R0K97CiSCNPDTCrRyGtRKa -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R0K97CiSCNPDTCrRyGtRKa">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBoQg92Wbf6wRb3Sv7SilQs"/>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Enstrümanların frekanslarının belirlenebilir veya belirlenemez olması ile ilgili sınıflamadır.</dc:description>
+        <rdfs:label>MuzikalislevineGoreCalgilar</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.toplumdusmani.net/modules/wordbook/entry.php?entryID=942/vurmali-calgilar-nedir+vurmali-calgilar-ne-demek"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R78VeVG9fcmpJbYTlAJzbCJ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R78VeVG9fcmpJbYTlAJzbCJ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBoQg92Wbf6wRb3Sv7SilQs"/>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sesin nasıl üretildiği, perküsyon aletlerinin sınıflandırılmasında belirleyici olarak kullanılmıştır. Bu sınıflandırma daha bilimseldir.</dc:description>
+        <rdfs:label>SesinUretilmeSeklineGoreCalgilar</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.toplumdusmani.net/modules/wordbook/entry.php?entryID=942/vurmali-calgilar-nedir+vurmali-calgilar-ne-demek"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7RNf7UMneg2laoZQ7XV3aa -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7RNf7UMneg2laoZQ7XV3aa">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">İçindeki havanın titreşmesiyle sesin oluştuğu çalgıların ortak adıdır</dc:description>
+        <rdfs:label xml:lang="tr">NefesliCalgilar</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://yumurtaliekmek.com/uflemeli-calgilar-nelerdir/"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7kpxr4Xb9jAa4xBikoUCld -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7kpxr4Xb9jAa4xBikoUCld">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7RNf7UMneg2laoZQ7XV3aa"/>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7kpxr4Xb9jAa4xBikoUCld"/>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pirinç, gümüş ya da çeşitli alaşımlardan yapılmış çalgılar</dc:description>
+        <rdfs:label>DigerNefesliCalgilar</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://yumurtaliekmek.com/uflemeli-calgilar-nelerdir/"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7wbupTFHuvn6h6sjJOU9iZ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7wbupTFHuvn6h6sjJOU9iZ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDmq6MlXcNzLxHoffOGmpdA"/>
+        <rdfs:label>FolklorikVurmaliCalgilar</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8QbagyLaAwI7K8jGCsFqpo -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8QbagyLaAwI7K8jGCsFqpo">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R78VeVG9fcmpJbYTlAJzbCJ"/>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tüm yapılarının titreşmesi sonucu ses üretirler.</dc:description>
+        <rdfs:label>Idiofon</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.toplumdusmani.net/modules/wordbook/entry.php?entryID=942/vurmali-calgilar-nedir+vurmali-calgilar-ne-demek"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8S82BqkWjtbDwGGQuvQQB0 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8S82BqkWjtbDwGGQuvQQB0">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <dc:description xml:lang="tr">Mekanizmaya sahip tuşlardan oluşan takımdır.</dc:description>
+        <rdfs:label xml:lang="tr">TusluCalgilar</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://tr.wikipedia.org/wiki/Klavye_(m%C3%BCzik)"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R94jSsfKmHKdqlVRWHbc5so -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R94jSsfKmHKdqlVRWHbc5so">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R0K97CiSCNPDTCrRyGtRKa"/>
+        <rdfs:label>BelirlenebilirOlmayanFrekanslar</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R98ilziXZnRJha9XZhpGKzS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R98ilziXZnRJha9XZhpGKzS">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Titreşen teller aracılığı ile ses üreten müzik aletleri</dc:description>
+        <rdfs:label>TelliCalgilar</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://tr.wikipedia.org/wiki/Telli_%C3%A7alg%C4%B1lar"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBQinLGODVUUYJMGFLTlSSo -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBQinLGODVUUYJMGFLTlSSo">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R78VeVG9fcmpJbYTlAJzbCJ"/>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Membranofonlar üzerlerinde bulunan zarın titreşmesi sonucunda ses üretirler.</dc:description>
+        <rdfs:label>Membranofon</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.toplumdusmani.net/modules/wordbook/entry.php?entryID=942/vurmali-calgilar-nedir+vurmali-calgilar-ne-demek"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBoQg92Wbf6wRb3Sv7SilQs -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBoQg92Wbf6wRb3Sv7SilQs">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <dc:description xml:lang="tr">Müzikte ritim yapısı kurulmak için kullanılır</dc:description>
+        <rdfs:label xml:lang="tr">VurmaliCalgilar</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://tr.wikipedia.org/wiki/Perk%C3%BCsyon"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCkXJjlKtjABg2dRBT4Zile -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCkXJjlKtjABg2dRBT4Zile">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R98ilziXZnRJha9XZhpGKzS"/>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCkXJjlKtjABg2dRBT4Zile"/>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">İsmini Tezene adı verilen çalgıları çalmaya yardımcı olan aletten alır.</dc:description>
+        <rdfs:label>TezeneliCalgilar</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.turkcebilgi.com/telli_%C3%A7alg%C4%B1lar"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCu2W6t0JhhIy2BVADYM8JG -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCu2W6t0JhhIy2BVADYM8JG">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7RNf7UMneg2laoZQ7XV3aa"/>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCu2W6t0JhhIy2BVADYM8JG"/>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bakırdan yapılmış üflemeli çalgılar</dc:description>
+        <rdfs:label>BakirNefesliCalgilar</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://yumurtaliekmek.com/uflemeli-calgilar-nelerdir/"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDAxT3t4BWv0vNZXevyCi4f -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDAxT3t4BWv0vNZXevyCi4f">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R98ilziXZnRJha9XZhpGKzS"/>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDAxT3t4BWv0vNZXevyCi4f"/>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tellerin üzerine bir çekiç ile vurularak titreşim ve ses oluşturulur.</dc:description>
+        <rdfs:label>VurmaliTelliCalgilar</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.toplumdusmani.net/modules/wordbook/entry.php?entryID=941/telli-calgilar-nedir+telli-calgilar-ne-demek"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDbV0GXjmXMcFzuYFC0aeJo -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDbV0GXjmXMcFzuYFC0aeJo">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDmq6MlXcNzLxHoffOGmpdA"/>
+        <rdfs:label>ModernVurmaliCalgilar</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDmq6MlXcNzLxHoffOGmpdA -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDmq6MlXcNzLxHoffOGmpdA">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBoQg92Wbf6wRb3Sv7SilQs"/>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Perküsyon aletlerini kültürel kökenlerine göre adlandırılmıştır.</dc:description>
+        <rdfs:label>FarkliKulturVeGeleneklereGoreCalgilar</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.toplumdusmani.net/modules/wordbook/entry.php?entryID=942/vurmali-calgilar-nedir+vurmali-calgilar-ne-demek"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RTgQntTy0oUk9dIw5rWlub -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RTgQntTy0oUk9dIw5rWlub">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R78VeVG9fcmpJbYTlAJzbCJ"/>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Telli çalgılar genellikle kordofon olarak biliniriler. Fakat bunarın bazıları aynı zamanda perküsyon aletidir.</dc:description>
+        <rdfs:label>Kordofon</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.toplumdusmani.net/modules/wordbook/entry.php?entryID=942/vurmali-calgilar-nedir+vurmali-calgilar-ne-demek"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RZ0H4L3sgVnrKAW5Y4ipa0 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RZ0H4L3sgVnrKAW5Y4ipa0">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R0K97CiSCNPDTCrRyGtRKa"/>
+        <rdfs:label>BelirlenebilirFrekans</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rgr3A72XnJ2yYsOBsL2CHi -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rgr3A72XnJ2yYsOBsL2CHi">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R78VeVG9fcmpJbYTlAJzbCJ"/>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Üflemeli çalgılar aerofonların genelini oluştururlar.</dc:description>
+        <rdfs:label>Aerofon</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.toplumdusmani.net/modules/wordbook/entry.php?entryID=942/vurmali-calgilar-nedir+vurmali-calgilar-ne-demek"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RoFyh7qvR57jhugksOx5ow -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RoFyh7qvR57jhugksOx5ow">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R98ilziXZnRJha9XZhpGKzS"/>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RoFyh7qvR57jhugksOx5ow"/>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Çalgının telleri ile onu çalmakta kullanılan yayın tellerinin birbirine sürtünerek çekilmesi sonucu ses üretilir.</dc:description>
+        <rdfs:label>YaylıTelliCalgilar</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.toplumdusmani.net/modules/wordbook/entry.php?entryID=941/telli-calgilar-nedir+telli-calgilar-ne-demek"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rs7YI8m2DKTlvvnXmxy22D -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rs7YI8m2DKTlvvnXmxy22D">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBoQg92Wbf6wRb3Sv7SilQs"/>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">İzleyicinin verdiği isimlerle anılmaktadır ve gündelik bilgimizin algıladığı perküsyon aletleri olarak anmak daha uygun olacaktır.</dc:description>
+        <rdfs:label>GundelikBilgiyeGoreCalgilar</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.toplumdusmani.net/modules/wordbook/entry.php?entryID=942/vurmali-calgilar-nedir+vurmali-calgilar-ne-demek"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RveuvGnEv9G96VdsmGG9Bg -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RveuvGnEv9G96VdsmGG9Bg">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R78VeVG9fcmpJbYTlAJzbCJ"/>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Elektrik sayesinde ses üreten her çalgı bir hoparlöre gereksinim duyar. Hoparlörler titreşimleriyle müzik üreten idiofonlara benzetilebilir.</dc:description>
+        <rdfs:label>Elektrofon</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.toplumdusmani.net/modules/wordbook/entry.php?entryID=942/vurmali-calgilar-nedir+vurmali-calgilar-ne-demek"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RyOnHQWOwTSMoQ8eoZ7uIH -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RyOnHQWOwTSMoQ8eoZ7uIH">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7RNf7UMneg2laoZQ7XV3aa"/>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RyOnHQWOwTSMoQ8eoZ7uIH"/>
+        <dc:description xml:lang="tr">Boru içindeki havanın titreşmesi sonucunda meydana gelen müzik aletleridir.</dc:description>
+        <rdfs:label xml:lang="tr">TahtaNefesliCalgilar</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://tr.wikipedia.org/wiki/Tahta_nefesli_%C3%A7alg%C4%B1lar"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R0o7yZod15Kld0iTkN3KW7 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R0o7yZod15Kld0iTkN3KW7">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R78VeVG9fcmpJbYTlAJzbCJ"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBQinLGODVUUYJMGFLTlSSo"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBoQg92Wbf6wRb3Sv7SilQs"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Afrika</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Asya</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Timpani</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17. yy</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Timpani"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Timpani</dc:title>
+        <rdfs:label>Timpani</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.tualimforum.com/enstrumanlar/66118-timpani-hakkinda-bilgi-timpani-ozellikleri.html"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R1bXG49aqYurTdT4bB521C -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R1bXG49aqYurTdT4bB521C">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R78VeVG9fcmpJbYTlAJzbCJ"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7wbupTFHuvn6h6sjJOU9iZ"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBoQg92Wbf6wRb3Sv7SilQs"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDmq6MlXcNzLxHoffOGmpdA"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RTgQntTy0oUk9dIw5rWlub"/>
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/Rkl75GFsvLMkXdlNn1eKmp"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hindistan</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Irak</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">İran</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw xml:lang="tr">Santur</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw xml:lang="ro">Timbal</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <rdfs:label xml:lang="ro">Timbal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R59FPcpivHRmm6agQlZfAB -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R59FPcpivHRmm6agQlZfAB">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R98ilziXZnRJha9XZhpGKzS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCkXJjlKtjABg2dRBT4Zile"/>
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/R7hQmNKiM6qMrDXJk6dSggx"/>
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/RCLZJozO2NYyTFUqskWyl5P"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RCW48z4e0a8vZvf4SOmoNTX"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orta Asya</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dombra</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCJM2fHq6oNnaCvkZYBp21u rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</webprotege:RCJM2fHq6oNnaCvkZYBp21u>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Erdal Erzincan</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <rdfs:label>Dombra</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R6Bb6Y7tUHojSZnchIExME -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R6Bb6Y7tUHojSZnchIExME">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R98ilziXZnRJha9XZhpGKzS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RoFyh7qvR57jhugksOx5ow"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">İtalya</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Viyola</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCJM2fHq6oNnaCvkZYBp21u rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</webprotege:RCJM2fHq6oNnaCvkZYBp21u>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Viyola"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Viyola</dc:title>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kemanımsı müzik aleti</rdfs:comment>
+        <rdfs:label>Viyola</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R715ia93akIKj9ETA05nxNA -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R715ia93akIKj9ETA05nxNA">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7RNf7UMneg2laoZQ7XV3aa"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RyOnHQWOwTSMoQ8eoZ7uIH"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fransa</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Klarinet</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alain Damiens</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giora Feidman</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hüsnü Şenlendirici</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sarah Elbaz</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1800</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Klarnet"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Klarinet</dc:title>
+        <rdfs:label>Klarinet</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R72cw5juT8ORFJp4pc1J5aL -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R72cw5juT8ORFJp4pc1J5aL">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7RNf7UMneg2laoZQ7XV3aa"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7kpxr4Xb9jAa4xBikoUCld"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orta Asya</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kaval</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilinmiyor</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Çoban Çalgısı</dc:description>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="http://www.nedir.com/kaval"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kaval</dc:title>
+        <rdfs:label>Kaval</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R72xO9cJaa3wa9E1sewQCuK -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R72xO9cJaa3wa9E1sewQCuK">
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/RBa3ZJrkzUUV4vuZkTeOIXH"/>
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/RC0vrHgeXqN0tJltt63aQbV"/>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw xml:lang="tr">boynuz</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <rdfs:label xml:lang="it">corno</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R73MGchuqGE4UqpsrN02PsL -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R73MGchuqGE4UqpsrN02PsL">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R98ilziXZnRJha9XZhpGKzS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RoFyh7qvR57jhugksOx5ow"/>
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/R8g3RHfPKIaud4IDp4BgS9E"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fransa</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Çello</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCJM2fHq6oNnaCvkZYBp21u rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</webprotege:RCJM2fHq6oNnaCvkZYBp21u>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mstislav Rostropovich</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16. yy.</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Viyolonsel"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Çello</dc:title>
+        <rdfs:label>Çello</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7Nwgab3t0MDOpEsyOleJqe -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7Nwgab3t0MDOpEsyOleJqe">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RyOnHQWOwTSMoQ8eoZ7uIH"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fransızca</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Obua</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George Frideric Handel</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Joseph Haydn</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1700</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Obua"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Obua</dc:title>
+        <rdfs:label>Obua</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7ddFH8hACAfsKdwkFO3zTR -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7ddFH8hACAfsKdwkFO3zTR">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7wbupTFHuvn6h6sjJOU9iZ"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBoQg92Wbf6wRb3Sv7SilQs"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDmq6MlXcNzLxHoffOGmpdA"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Afrika</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Latin Amerika</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marakas</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilinmiyor</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Marakas"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marakas</dc:title>
+        <rdfs:label>Marakas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7hI2cQNjVmhkyaU1eGbSo6 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7hI2cQNjVmhkyaU1eGbSo6">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7RNf7UMneg2laoZQ7XV3aa"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RyOnHQWOwTSMoQ8eoZ7uIH"/>
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/RBbFbWOwMtQO244KHIrabcP"/>
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/Ro6K1u2eIU60QtXbHxFDFh"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orta Asya</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mey</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alihan Samedov</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Civan Gasparyan</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilinmiyor</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Balaban"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mey</dc:title>
+        <rdfs:label>Mey</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7hQmNKiM6qMrDXJk6dSggx -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7hQmNKiM6qMrDXJk6dSggx">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R98ilziXZnRJha9XZhpGKzS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCkXJjlKtjABg2dRBT4Zile"/>
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/RCLZJozO2NYyTFUqskWyl5P"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkler</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bağlama</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCJM2fHq6oNnaCvkZYBp21u rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</webprotege:RCJM2fHq6oNnaCvkZYBp21u>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aşık Veysel</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neşet Ertaş</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orhan Gencebay</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MÖ 1600</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Ba%C4%9Flama"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bağlama</dc:title>
+        <rdfs:label>Bağlama</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://baglamakursuizmirbornova.com/baglamanin-tarihsel-gelisimi/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8H3CjtI1ma8mz8ZaJL03Zn -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8H3CjtI1ma8mz8ZaJL03Zn">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7RNf7UMneg2laoZQ7XV3aa"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7kpxr4Xb9jAa4xBikoUCld"/>
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/RBDgdMvnvpvgV7vgUrdCXFd"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw xml:lang="tr">Gayda</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <dc:description xml:lang="tr">İskoçların tulumu</dc:description>
+        <rdfs:label xml:lang="sc">Gaida</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8MdNkRPv5Wx0p2hvo5qdlM -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8MdNkRPv5Wx0p2hvo5qdlM">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7RNf7UMneg2laoZQ7XV3aa"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RyOnHQWOwTSMoQ8eoZ7uIH"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Latin Amerika</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Flüt</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1870</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language xml:lang="tr">Türkçe</dc:language>
+        <dc:source rdf:resource="http://www.bilgiustam.com/flut-nedir-icadi-tarihcesi/"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Flüt</dc:title>
+        <rdfs:label>Flüt</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8MnkZWvRigi7FNFbF12yhz -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8MnkZWvRigi7FNFbF12yhz">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R0K97CiSCNPDTCrRyGtRKa"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBoQg92Wbf6wRb3Sv7SilQs"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RZ0H4L3sgVnrKAW5Y4ipa0"/>
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/RBqCOx1S0vjqx1sK0fZjfZ2"/>
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/RChu0EVEH0jzEi2zkTNcjKN"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilinmiyor</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ksilofon</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilinmiyor</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Ksilofon"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ksilofon</dc:title>
+        <rdfs:label>Klisofon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8VXK6MVXS7ByaA3qA3sfGO -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8VXK6MVXS7ByaA3qA3sfGO">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R78VeVG9fcmpJbYTlAJzbCJ"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7RNf7UMneg2laoZQ7XV3aa"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBoQg92Wbf6wRb3Sv7SilQs"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCu2W6t0JhhIy2BVADYM8JG"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Rgr3A72XnJ2yYsOBsL2CHi"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilinmiyor</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Borazan</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilinmiyor</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Borazan"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Borazan</dc:title>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Borazan diyince hangimizin aklına Kemal Sunal gelmez ki?</rdfs:comment>
+        <rdfs:label>Borazan</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8g3RHfPKIaud4IDp4BgS9E -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8g3RHfPKIaud4IDp4BgS9E">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R98ilziXZnRJha9XZhpGKzS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RoFyh7qvR57jhugksOx5ow"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fransa</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Viyolonsel</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCJM2fHq6oNnaCvkZYBp21u rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</webprotege:RCJM2fHq6oNnaCvkZYBp21u>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mstislav Rostropovich</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16. yy.</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Viyolonsel"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Viyolonsel</dc:title>
+        <rdfs:label>Viyolonsel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8hg5JKYGOMqmOrK80BmNJp -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8hg5JKYGOMqmOrK80BmNJp">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R98ilziXZnRJha9XZhpGKzS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RoFyh7qvR57jhugksOx5ow"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fransa</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kontrbas</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCJM2fHq6oNnaCvkZYBp21u rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</webprotege:RCJM2fHq6oNnaCvkZYBp21u>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18. yy.</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Kontrbas"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kontrabas</dc:title>
+        <rdfs:label>Kontrbas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8s045HdHQ3uNEOXuzTdEfc -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8s045HdHQ3uNEOXuzTdEfc">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBoQg92Wbf6wRb3Sv7SilQs"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Rs7YI8m2DKTlvvnXmxy22D"/>
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/RC0Hl4XOoInjZoxT1tngxhc"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Amerika</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bateri</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hermann Rarebell</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Travis Barker</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1880</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="http://www.mtmuzik.net/blog/kategori-1/baterinin-tarihcesi"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bateri</dc:title>
+        <rdfs:label>Bateri</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.forumdas.net/konu/dunyaca-unlu-baterist.167030/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8tN91UzAsRh1ZWT3uxhHI2 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8tN91UzAsRh1ZWT3uxhHI2">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R98ilziXZnRJha9XZhpGKzS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCkXJjlKtjABg2dRBT4Zile"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sümerler</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tambur</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCJM2fHq6oNnaCvkZYBp21u rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</webprotege:RCJM2fHq6oNnaCvkZYBp21u>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tamburi Cemil Bey</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilinmiyor</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Tambur"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tambur</dc:title>
+        <rdfs:label>Tambur</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9HTw84NHPcbCTngTIVGyig -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9HTw84NHPcbCTngTIVGyig">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R78VeVG9fcmpJbYTlAJzbCJ"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBQinLGODVUUYJMGFLTlSSo"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBoQg92Wbf6wRb3Sv7SilQs"/>
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/RCZX9Ys9Em7M7fSPnMT1RQz"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Anadolu</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Darbuka</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Balık Ayhan</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilinmiyor</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="http://baterikursuizmir.com/darbukanin-tarihcesi/"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Darbuka</dc:title>
+        <rdfs:label>Darbuka</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9KRGbmY6KKnk7utGoptcRS -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9KRGbmY6KKnk7utGoptcRS">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R98ilziXZnRJha9XZhpGKzS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RoFyh7qvR57jhugksOx5ow"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Osmanlı Dönemi</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kemençe</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCJM2fHq6oNnaCvkZYBp21u rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</webprotege:RCJM2fHq6oNnaCvkZYBp21u>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tamburi Cemil Bey</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18. yy.</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Klasik_kemen%C3%A7e"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kemençe</dc:title>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Karadeniz kemençesi gibi algılanır ama Türk musikisinde önemli bir yere sahiptir.</rdfs:comment>
+        <rdfs:label>Kemençe</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9NiaxJI1GC6bIagSwQIcVD -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9NiaxJI1GC6bIagSwQIcVD">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7wbupTFHuvn6h6sjJOU9iZ"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBoQg92Wbf6wRb3Sv7SilQs"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDmq6MlXcNzLxHoffOGmpdA"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Güney Amerika</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cajon</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilinmiyor</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cajon</dc:title>
+        <rdfs:label>Cajon</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://eksisozluk.com/cajon--151073"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9de0CcViF8XZw75HNn0vyG -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9de0CcViF8XZw75HNn0vyG">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R98ilziXZnRJha9XZhpGKzS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RoFyh7qvR57jhugksOx5ow"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">İtalya</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Keman</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCJM2fHq6oNnaCvkZYBp21u rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</webprotege:RCJM2fHq6oNnaCvkZYBp21u>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Farid Farjad</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Niccolò Paganini</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17. yy</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Keman"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Keman</dc:title>
+        <rdfs:label>Keman</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9dgWxK42IKm959UMrTuIa2 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9dgWxK42IKm959UMrTuIa2">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8S82BqkWjtbDwGGQuvQQB0"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RBGw2C9b46OLZAdxOjYWvYp rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</webprotege:RBGw2C9b46OLZAdxOjYWvYp>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Almanya</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Akordeon</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1822</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Akordeon"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Akordeon</dc:title>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Akordiyon diye biliyorduk biz Akordeon muymuş?</rdfs:comment>
+        <rdfs:label>Akordeon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9nh95RMLZ3QQu4YCar3fSQ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9nh95RMLZ3QQu4YCar3fSQ">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7RNf7UMneg2laoZQ7XV3aa"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCu2W6t0JhhIy2BVADYM8JG"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mısır</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trompet</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M.Ö. 2000</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://www.turkcebilgi.com/trompet"/>
+        <rdfs:label>Trompet</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/V2ZE6v"/>
+        <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bakır üflemeli çalgıların en eskisi</skos:definition>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9t0RurWlitsPaEE0yxDHoq -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9t0RurWlitsPaEE0yxDHoq">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8S82BqkWjtbDwGGQuvQQB0"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RBGw2C9b46OLZAdxOjYWvYp rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">61</webprotege:RBGw2C9b46OLZAdxOjYWvYp>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mısır</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Org</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MÖ 150</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Org"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Org</dc:title>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bi kilise orgu göremedik yav!</rdfs:comment>
+        <rdfs:label>Org</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9tCef3xub6VVPUXlN2NJHm -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9tCef3xub6VVPUXlN2NJHm">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R78VeVG9fcmpJbYTlAJzbCJ"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8S82BqkWjtbDwGGQuvQQB0"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDAxT3t4BWv0vNZXevyCi4f"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RTgQntTy0oUk9dIw5rWlub"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RBGw2C9b46OLZAdxOjYWvYp rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">88</webprotege:RBGw2C9b46OLZAdxOjYWvYp>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">İtalya</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Piyano</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCJM2fHq6oNnaCvkZYBp21u rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">226</webprotege:RCJM2fHq6oNnaCvkZYBp21u>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fazıl Say</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sergey Rachmaninov</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">İdil Biret</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1700</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="http://www.keyfimuzik.net/muzik-makaleleri/26120-piyano-hakkinda-kisa-bilgi.html"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Piyano</dc:title>
+        <rdfs:label>Piyano</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://tr.wikipedia.org/wiki/Piyano"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBB7br859jP0JFpeD2HpiMM -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBB7br859jP0JFpeD2HpiMM">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R78VeVG9fcmpJbYTlAJzbCJ"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8QbagyLaAwI7K8jGCsFqpo"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBoQg92Wbf6wRb3Sv7SilQs"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fransa</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Celesta</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1886</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://en.wikipedia.org/wiki/Celesta"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Celesta</dc:title>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kovboy filmlerinde çalınan çalgı da diyebilirz</rdfs:comment>
+        <rdfs:label>Celesta</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBDgdMvnvpvgV7vgUrdCXFd -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBDgdMvnvpvgV7vgUrdCXFd">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7kpxr4Xb9jAa4xBikoUCld"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv xml:lang="tr">Mezopotamya</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw xml:lang="tr">Tulum</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD xml:lang="tr">Birol Topaloğlu</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 xml:lang="tr">MÖ 425</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language xml:lang="tr">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Tulum"/>
+        <dc:title xml:lang="tr">Tulum</dc:title>
+        <rdfs:label xml:lang="tr">Tulum</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBJKj2EW0GcICy1eNMYurgd -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBJKj2EW0GcICy1eNMYurgd">
+        <rdfs:label>Hay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBa3ZJrkzUUV4vuZkTeOIXH -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBa3ZJrkzUUV4vuZkTeOIXH">
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/RC0vrHgeXqN0tJltt63aQbV"/>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw xml:lang="it">Corno</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <rdfs:label xml:lang="tr">boynuz</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBbFbWOwMtQO244KHIrabcP -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBbFbWOwMtQO244KHIrabcP">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7RNf7UMneg2laoZQ7XV3aa"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RyOnHQWOwTSMoQ8eoZ7uIH"/>
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/Ro6K1u2eIU60QtXbHxFDFh"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orta Asya</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw xml:lang="az">Balaban</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilinmiyor</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Balaban"/>
+        <rdfs:label xml:lang="az">Balaban</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBlFhDx6e4aqNKLL1PQZiDi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBlFhDx6e4aqNKLL1PQZiDi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7RNf7UMneg2laoZQ7XV3aa"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RyOnHQWOwTSMoQ8eoZ7uIH"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Avrupa</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fagot</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wolfgang Amadeus Mozart</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1600</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Fagot"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fagot</dc:title>
+        <rdfs:label>Fagot</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBqCOx1S0vjqx1sK0fZjfZ2 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBqCOx1S0vjqx1sK0fZjfZ2">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R0K97CiSCNPDTCrRyGtRKa"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBoQg92Wbf6wRb3Sv7SilQs"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RZ0H4L3sgVnrKAW5Y4ipa0"/>
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/RChu0EVEH0jzEi2zkTNcjKN"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Amerika</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vibrafon</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1921</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Vibrafon"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vibrafon</dc:title>
+        <rdfs:label>Vibrafon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC0Hl4XOoInjZoxT1tngxhc -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RC0Hl4XOoInjZoxT1tngxhc">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R0K97CiSCNPDTCrRyGtRKa"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R94jSsfKmHKdqlVRWHbc5so"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBoQg92Wbf6wRb3Sv7SilQs"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDbV0GXjmXMcFzuYFC0aeJo"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDmq6MlXcNzLxHoffOGmpdA"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Rs7YI8m2DKTlvvnXmxy22D"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Asurlular</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Eski Mısır</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Uzakdoğu</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Davul</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilinmiyor</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Davul"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Davul</dc:title>
+        <rdfs:label>Davul</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC0vrHgeXqN0tJltt63aQbV -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RC0vrHgeXqN0tJltt63aQbV">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7RNf7UMneg2laoZQ7XV3aa"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCu2W6t0JhhIy2BVADYM8JG"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv xml:lang="tr">Fransa</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw xml:lang="tr">Korno</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1650</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language xml:lang="tr">Türkçe</dc:language>
+        <dc:source rdf:resource="http://frekansadam.com/forum/topic/korno-nedir-korno-calimi-video-ve-tarihcesi/"/>
+        <rdfs:label xml:lang="tr">Korno</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/uAwr9E"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCLZJozO2NYyTFUqskWyl5P -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCLZJozO2NYyTFUqskWyl5P">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R98ilziXZnRJha9XZhpGKzS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCkXJjlKtjABg2dRBT4Zile"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RCW48z4e0a8vZvf4SOmoNTX"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orta Asya</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kopuz</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCJM2fHq6oNnaCvkZYBp21u rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</webprotege:RCJM2fHq6oNnaCvkZYBp21u>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M1600</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <rdfs:label>Kopuz</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCW48z4e0a8vZvf4SOmoNTX -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCW48z4e0a8vZvf4SOmoNTX">
+        <rdfs:label>Yok</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCZX9Ys9Em7M7fSPnMT1RQz -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCZX9Ys9Em7M7fSPnMT1RQz">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R78VeVG9fcmpJbYTlAJzbCJ"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBQinLGODVUUYJMGFLTlSSo"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBoQg92Wbf6wRb3Sv7SilQs"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Anadolu</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dümbelek</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Balık Ayhan</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilinmiyor</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <rdfs:label>Dümbelek</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RChRYOBnd55M12zUTdLgwdo -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RChRYOBnd55M12zUTdLgwdo">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7RNf7UMneg2laoZQ7XV3aa"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7kpxr4Xb9jAa4xBikoUCld"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8S82BqkWjtbDwGGQuvQQB0"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RBGw2C9b46OLZAdxOjYWvYp rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19-37</webprotege:RBGw2C9b46OLZAdxOjYWvYp>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilinmiyor</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Melodika</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilinmiyor</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Melodika"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Melodika</dc:title>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Flütten sonra öğrenilmesi gereken ikinci çalgı.</rdfs:comment>
+        <rdfs:label>Melodika</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RChu0EVEH0jzEi2zkTNcjKN -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RChu0EVEH0jzEi2zkTNcjKN">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R78VeVG9fcmpJbYTlAJzbCJ"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8QbagyLaAwI7K8jGCsFqpo"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBoQg92Wbf6wRb3Sv7SilQs"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Meksika</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marimba</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilinmiyor</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="http://www.rotka.org/gecmisten-sonsuzluga-marimba/"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marimba</dc:title>
+        <rdfs:label>Marimba</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCoypHE5kdEbF5ZoqfUsTtS -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCoypHE5kdEbF5ZoqfUsTtS">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7RNf7UMneg2laoZQ7XV3aa"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RyOnHQWOwTSMoQ8eoZ7uIH"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RBGw2C9b46OLZAdxOjYWvYp rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</webprotege:RBGw2C9b46OLZAdxOjYWvYp>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fransa</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saksafon</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1840</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="http://www.dersimiz.com/bilgibankasi/SAKSAFON-NEDIR-HAKKINDA-BILGI-770.html"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saksafon</dc:title>
+        <rdfs:label xml:lang="tr">Saksafon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCpexqiqIWrp5HYtoxsHhzc -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCpexqiqIWrp5HYtoxsHhzc">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7RNf7UMneg2laoZQ7XV3aa"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RyOnHQWOwTSMoQ8eoZ7uIH"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sümerliler</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ney</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ömer Faruk Tekbilek</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MÖ 5000</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Ney"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ney</dc:title>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sesinde huzur bulunan çalgı</rdfs:comment>
+        <rdfs:label>Ney</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCrPAiRwBj0gBbbsfSlFhNB -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCrPAiRwBj0gBbbsfSlFhNB">
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw xml:lang="tr">Trombon</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <rdfs:label xml:lang="fr">sacquer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx">
+        <rdfs:label>Evet</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDDukh8NIMGOlAK0yrzCicC -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDDukh8NIMGOlAK0yrzCicC">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R0K97CiSCNPDTCrRyGtRKa"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R78VeVG9fcmpJbYTlAJzbCJ"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8QbagyLaAwI7K8jGCsFqpo"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R94jSsfKmHKdqlVRWHbc5so"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBoQg92Wbf6wRb3Sv7SilQs"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orta Doğu</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11.yy</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="http://www.kadimdostlar.com/topic/47079-vurmaly-calgylar-zil-nedir-tarihcesi-uc-yuz-yyldan-beri-turk-zillerinin-ununu;-ystanbul-daki-zilciyan-ailesi-yurutmektedir/"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zil</dc:title>
+        <rdfs:label>Zil</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDFr69A74XSQIFNFJG7GBYg -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDFr69A74XSQIFNFJG7GBYg">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R78VeVG9fcmpJbYTlAJzbCJ"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBoQg92Wbf6wRb3Sv7SilQs"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RveuvGnEv9G96VdsmGG9Bg"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilinmiyor</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MIDI</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1983</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/M%C3%BCzik_Enstr%C3%BCmanlar%C4%B1_Dijital_Arabirimi"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MIDI</dc:title>
+        <rdfs:label>MIDI</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDG6rQUSqN4jH00Rt2TujUN -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDG6rQUSqN4jH00Rt2TujUN">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R98ilziXZnRJha9XZhpGKzS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCkXJjlKtjABg2dRBT4Zile"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkiye</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cümbüş</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCJM2fHq6oNnaCvkZYBp21u rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</webprotege:RCJM2fHq6oNnaCvkZYBp21u>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zeynel Abidin Cümbüş</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1926</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/C%C3%BCmb%C3%BC%C5%9F"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cümbüş</dc:title>
+        <rdfs:label>Cümbüş</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://tr.wikipedia.org/wiki/Zeynel_Abidin_C%C3%BCmb%C3%BC%C5%9F"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDGJDRe49OyPPpcSaohB25D -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDGJDRe49OyPPpcSaohB25D">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Rs7YI8m2DKTlvvnXmxy22D"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mezopotamya</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Def</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tef</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilinmiyor</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Def"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tef</dc:title>
+        <rdfs:label>Tef</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDGaSqgOeiuFiQ79MPs6XDT -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDGaSqgOeiuFiQ79MPs6XDT">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7RNf7UMneg2laoZQ7XV3aa"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCu2W6t0JhhIy2BVADYM8JG"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv xml:lang="tr">İspanya</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw xml:lang="tr">Trombon</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD xml:lang="tr">Armin Bachman</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD xml:lang="tr">Branimir Slokar</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1500</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language xml:lang="tr">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Trombon"/>
+        <dc:title xml:lang="tr">Trombon</dc:title>
+        <rdfs:label xml:lang="tr">Trombon</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.turkcebilgi.com/trombon"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDl9xW1VvmVuVIAfjy6UwKt -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDl9xW1VvmVuVIAfjy6UwKt">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R78VeVG9fcmpJbYTlAJzbCJ"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R98ilziXZnRJha9XZhpGKzS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCkXJjlKtjABg2dRBT4Zile"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RTgQntTy0oUk9dIw5rWlub"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mısır ve Sümerliler</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kanun</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCJM2fHq6oNnaCvkZYBp21u rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">78</webprotege:RCJM2fHq6oNnaCvkZYBp21u>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Halil Karaduman</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Necati Yıldızdoğan</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1400</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Kanun_(m%C3%BCzik)"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kanun</dc:title>
+        <rdfs:label>Kanun</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.nostaljitadinda.com/2010/12/03/en-iyi-kanuniler-kanun-sanatcilari/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH">
+        <rdfs:label>Hayır</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RLtPiZ4ZcJnxSPteTFnD20 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RLtPiZ4ZcJnxSPteTFnD20">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCkXJjlKtjABg2dRBT4Zile"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">İlk Çağ</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arp</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCJM2fHq6oNnaCvkZYBp21u rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</webprotege:RCJM2fHq6oNnaCvkZYBp21u>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Georges Cousineau</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jacob Hochbrucker</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilinmiyor</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Arp"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arp</dc:title>
+        <rdfs:label>Arp</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.arastirmax.com/tr/bilimsel-yayin/akademik-bakis/1/44/1-12-arp-calgisinin-tarihcesi-uzerine-bir-inceleme"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RWzFvAK0fR0lnNNCSXJHxe -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RWzFvAK0fR0lnNNCSXJHxe">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCkXJjlKtjABg2dRBT4Zile"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RCW48z4e0a8vZvf4SOmoNTX"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RCW48z4e0a8vZvf4SOmoNTX"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RCW48z4e0a8vZvf4SOmoNTX"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">İtalya</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mandolin</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCJM2fHq6oNnaCvkZYBp21u rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</webprotege:RCJM2fHq6oNnaCvkZYBp21u>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1900</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="http://www.bilgiustam.com/mandolin-nedir/"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mandolin</dc:title>
+        <rdfs:label>Mandolin</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://eodev.com/gorev/9654726"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RinO2C5XHVpjyH0eSZQSu6 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RinO2C5XHVpjyH0eSZQSu6">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R98ilziXZnRJha9XZhpGKzS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RoFyh7qvR57jhugksOx5ow"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brezilya</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Berimbau</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCJM2fHq6oNnaCvkZYBp21u rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</webprotege:RCJM2fHq6oNnaCvkZYBp21u>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilinmiyor</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Berimbau"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Berimbau</dc:title>
+        <rdfs:label>Berimbau</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.google.com.tr/search?q=berimbau&amp;tbm=isch&amp;imgil=o8A0GKVTmcOqSM%253A%253B6LWYM59LXzCx_M%253Bhttps%25253A%25252F%25252Fen.wikipedia.org%25252Fwiki%25252FBerimbau&amp;source=iu&amp;pf=m&amp;fir=o8A0GKVTmcOqSM%253A%252C6LWYM59LXzCx_M%252C_&amp;usg=__2PWIofd4h0u1gx3xzWmee65g0ds%3D&amp;biw=1280&amp;bih=726&amp;ved=0ahUKEwiR_rWrvffTAhWMDywKHbx7CMYQyjcIMQ&amp;ei=4YscWdGJLoyfsAG896GwDA#imgrc=_y3nDR6frk-p8M:"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RkaExBlq4QfjLKwUURR2J4 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RkaExBlq4QfjLKwUURR2J4">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R78VeVG9fcmpJbYTlAJzbCJ"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBoQg92Wbf6wRb3Sv7SilQs"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RveuvGnEv9G96VdsmGG9Bg"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rusya</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Theremin</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jean Michel Jarre</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jimmy Page</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1928</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Theremin"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Theremin</dc:title>
+        <rdfs:label>Theremin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rkl75GFsvLMkXdlNn1eKmp -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Rkl75GFsvLMkXdlNn1eKmp">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RTgQntTy0oUk9dIw5rWlub"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hindistan</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Irak</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">İran</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Santur</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCJM2fHq6oNnaCvkZYBp21u rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">160</webprotege:RCJM2fHq6oNnaCvkZYBp21u>
+        <webprotege:RCJM2fHq6oNnaCvkZYBp21u rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</webprotege:RCJM2fHq6oNnaCvkZYBp21u>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11. yy.</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Santur"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Santur</dc:title>
+        <rdfs:label>Santur</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RloyDMijedTeeqrM6Kwn0Q -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RloyDMijedTeeqrM6Kwn0Q">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7RNf7UMneg2laoZQ7XV3aa"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7kpxr4Xb9jAa4xBikoUCld"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv xml:lang="tr">Orta Asya</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw xml:lang="tr">Zurna</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 xml:lang="tr">Bilinmiyor</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language xml:lang="tr">Türkçe</dc:language>
+        <dc:source rdf:resource="http://yagmurve.blogcu.com/zurna-ve-tarihcesi/4734925"/>
+        <dc:title xml:lang="tr">Zurna</dc:title>
+        <rdfs:comment xml:lang="tr">Düğünlerin vazgeçilmezlerinden biri</rdfs:comment>
+        <rdfs:label xml:lang="tr">Zurna</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Ro6K1u2eIU60QtXbHxFDFh -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Ro6K1u2eIU60QtXbHxFDFh">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R78VeVG9fcmpJbYTlAJzbCJ"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBoQg92Wbf6wRb3Sv7SilQs"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Rgr3A72XnJ2yYsOBsL2CHi"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orta Asya</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Düdük</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilinmiyor</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Balaban_(%C3%A7alg%C4%B1)"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Düdük</dc:title>
+        <rdfs:label>Düdük</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RqITiPUA3wxc9vj88IbrH4 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RqITiPUA3wxc9vj88IbrH4">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R98ilziXZnRJha9XZhpGKzS"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCkXJjlKtjABg2dRBT4Zile"/>
+        <webprotege:R7A25jUQ42nBl38BszPBldm rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:R7dcDfoAV9nGy9CWqASEBwK rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:R8hI39eMqP3DCh63VRP1YQM rdf:resource="http://webprotege.stanford.edu/RCx33oXJ5NZlQpGFCJG5Hsx"/>
+        <webprotege:RDECftuR4zxWtj23BngWdfI rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:Rk0QA5L6ggeGrR3f0M5zsn rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RoaWFn4aF8UMAswAzRAmuS rdf:resource="http://webprotege.stanford.edu/RJMl99qGHWwAq9kCP4pdH"/>
+        <webprotege:RBlpbJtKi6VHFVZsOBVx5sv rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hitit ve Asurlar</webprotege:RBlpbJtKi6VHFVZsOBVx5sv>
+        <webprotege:RCIvgp4R9klt0QLkKZFpYWw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gitar</webprotege:RCIvgp4R9klt0QLkKZFpYWw>
+        <webprotege:RCJM2fHq6oNnaCvkZYBp21u rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</webprotege:RCJM2fHq6oNnaCvkZYBp21u>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jimi Hendrix</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:RCdmt9U79JBEbQplBNQmDHD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slash</webprotege:RCdmt9U79JBEbQplBNQmDHD>
+        <webprotege:Rv08tGrz1DPpn0g74vGAp9 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilinmiyor</webprotege:Rv08tGrz1DPpn0g74vGAp9>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Gitar"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gitar</dc:title>
+        <rdfs:label>Gitar</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://hayalsahnesi.com.tr/gitar%C4%B1n-tarih%C3%A7esi/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://webprotege.stanford.edu/R9DmyYtXxd74ahkl1kMPtUq">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Celesta</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="wptmp:entity#Balaban">
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <rdfs:label xml:lang="az">Balaban</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="wptmp:entity#Chalumeau">
+        <rdfs:label xml:lang="fr">Chalumeau</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="wptmp:entity#Dümbelek">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dümbelek</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="wptmp:entity#Gaida">
+        <rdfs:label xml:lang="is">Gaida</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="wptmp:entity#Kopuz">
+        <dc:source rdf:resource="https://tr.wikipedia.org/wiki/Kopuz"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kopuz</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://baglamakursuizmirbornova.com/baglamanin-tarihsel-gelisimi/"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="wptmp:entity#sacabuche">
+        <rdfs:label xml:lang="es">Sacabuche</rdfs:label>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.3.1) https://github.com/owlcs/owlapi -->
+
